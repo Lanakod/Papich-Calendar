@@ -1,0 +1,10 @@
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\bin\Debug\PapichCalendar.exe.config
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\bin\Debug\PapichCalendar.exe
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\bin\Debug\PapichCalendar.pdb
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.csprojAssemblyReference.cache
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.Form1.resources
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.Properties.Resources.resources
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.csproj.GenerateResource.cache
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.csproj.CoreCompileInputs.cache
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.exe
+C:\Users\lanak\source\repos\PapichCalendar\PapichCalendar\obj\Debug\PapichCalendar.pdb
